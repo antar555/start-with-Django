@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+      background-color: black; 
+}
+h1{
+    color: blue;
+    margin-left: 568px;
+    text-shadow:  2px 2px 8px #FF0000;
+}
+.main{
+    background-color: blanchedalmond;
+    height: 500px;
+    width: 60%;
+    margin-left: 268px;
+    position: relative;
+}
+.mid1{
+    background-color: #45b6fe;
+    height: 130px;
+    width: 32%;
+    margin-left: 70px;
+    margin: 21px 0px 0px 76px;
+    position: absolute;
+
+     cursor: pointer;
+
+    
+    
+}
+.mid2{
+    background-color: #3FE0D0;
+    height: 130px;
+    width: 20%;
+    margin: 21px 0px 0px 325px;
+    position: absolute;
+         cursor: pointer;
+
+}
+.mid3{
+    background-color: violet;
+    height: 130px;
+    width: 20%;
+    margin: 21px 0px 0px 482px;
+    position: absolute;
+          cursor: pointer;
+
+}
+.mid4{
+    background-color: brown;
+    height: 130px;
+    width: 15.75%;
+    margin-left: 70px;
+    margin: 154px 0px 0px 78px;
+    position: absolute;
+      cursor: pointer;
+}
+.mid5{
+    background-color: orangered;
+    height: 130px;
+    width: 15.75%;
+    margin-left: 70px;
+    margin: 154px 0px 0px 202px;
+    position: absolute;
+        cursor: pointer;
+
+}
+.mid6{
+    background-color: #808000;
+    height: 130px;
+    width: 20%;
+    margin: 154px 0px 0px 325px;
+    position: absolute;
+    cursor: pointer;
+}
+.mid7{
+    background-color: rgb(170, 216, 124);
+    height: 130px;
+    width: 20%;
+    margin: 154px 0px 0px 482px;
+    position: absolute;
+        cursor: pointer;
+
+}
+.mid8{
+    background-color: rgba(82, 230, 82, 0.952);
+    height: 130px;
+    width: 15.75%;
+    margin-left: 70px;
+    margin: 288px 0px 0px 78px;
+    position: absolute;
+    cursor: pointer;
+}
+.mid9{
+    background-color: rgb(240, 120, 140);
+    height: 130px;
+    width: 36%;
+    margin-left: 70px;
+    margin: 288px 0px 0px 202px;
+    position: absolute;
+         cursor: pointer;
+
+
+}
+.mid10{
+    background-color: rgb(114, 114, 230);
+    height: 130px;
+    width: 20%;
+    margin: 288px 0px 0px 482px;
+    position: absolute;
+     cursor: pointer;
+}
+.mid11{
+    background-color: rgba(173, 166, 214, 0.952);
+    height: 65px;
+    width: 72.75%;
+    margin-left: 70px;
+    margin: 422px 0px 0px 78px;
+    position: absolute;
+     cursor: pointer;
+     
+
+}
+.mid11 h2{
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    margin: 20px 0px 0px 220px;
+    text-shadow:  0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+a{
+    margin-left: 1090px;
+    background-color: blueviolet;
+    color: white;
+}
